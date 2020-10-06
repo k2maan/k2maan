@@ -1,4 +1,4 @@
-### Hi! I am Ketuman Vishwakarma. 💎
+### 💎 Hi! I am Ketuman Vishwakarma. 
 
 - 💻 Engineer - 2022. 
 - 💙 Web Dev (Django), Flutter
