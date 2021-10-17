@@ -1,4 +1,4 @@
-### Hi there! I am Ketuman! 
+### Hola! Me llamo Ketuman! 
 
 - 👽 I do web dev, [make music (EDM)](https://www.youtube.com/channel/UCZrpkuw254gMrjlIZd8bS1g), write poetry and blogs, and flex [my self portraits on Instagram](https://www.instagram.com/k2maan/).
 - 💛 Currently working with JS, both front and back! Have done Django and Flutter in the past.
