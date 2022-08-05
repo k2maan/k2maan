@@ -1,5 +1,4 @@
 ## Hi! I'm Ketuman. How you doin'? 👨🏽‍💻👋🏽
-- 🍉 I do web dev, click self-portraits, make music, and write poetry.
 - 🚀 Engineer - 2022. AITR, Indore (India).
 - 📞 Ping me on [LinkedIn](https://www.linkedin.com/in/k2maan/) or at ketuman333@gmail.com
 
