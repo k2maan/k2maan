@@ -10,7 +10,7 @@
 
  <p align="center">
    <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k2maan&hide=dart,java&langs_count=4&layout=compact&custom_title=Languages&hide_border=true" /></a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=k2maan&hide=contribs,issues&show_icons=true&custom_title=Stats&hide_border=true" /> </a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=k2maan&show_icons=true&custom_title=Stats&hide_border=true" /> </a>
  </p>
 <p align="center">
   <a>
