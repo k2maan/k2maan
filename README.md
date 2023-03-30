@@ -1,11 +1,19 @@
-## Hi! I'm Ketuman. How you doin'? 👨🏽‍💻👋🏽
-- 🚀 Engineer - 2022. AITR, Indore (India).
-- 📞 Ping me on [LinkedIn](https://www.linkedin.com/in/k2maan/) or at ketuman333@gmail.com
+<h3 align="center">
+  Hi! I'm Ketuman. How you doin'? 👨🏽‍💻👋🏽
+</h3>
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k2maan&hide=dart,java&langs_count=4&layout=compact&custom_title=Languages&hide_border=true&theme=onedark" />
-</a>
-</br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=k2maan&hide=contribs,issues&show_icons=true&custom_title=Stats&hide_border=tru&theme=onedark" />
-</a> -->
+<h6 align="center">
+  🫀 SWE (Frontend) @ <a href="https://hotwax.co" />HotWax Commerce</a>
+  
+  📞 Ping me on <a href="https://www.linkedin.com/in/k2maan/" />LinkedIn</a> or at <a href="mailto:ketuman333@gmail.com" />ketuman333@gmail.com</a>
+</h6>
+
+ <p align="center">
+   <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k2maan&hide=dart,java&langs_count=4&layout=compact&custom_title=Languages&hide_border=true" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=k2maan&hide=contribs,issues&show_icons=true&custom_title=Stats&hide_border=true" /> </a>
+ </p>
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=js,vue,react,nodejs,mongodb,ts,html,css,cpp,flutter,python,django" />
+  </a>
+ </p>
